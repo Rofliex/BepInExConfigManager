@@ -156,9 +156,7 @@
         </Reference>
     </ItemGroup>
     <!-- ANALYZERS -->
-    <ItemGroup>
-        <Analyzer Include="..\packages\UniverseLib.Analyzers.1.0.4\analyzers\dotnet\cs\UniverseLib.Analyzers.dll" />
-    </ItemGroup>
+    
     <!-- PROJECT REFERENCES -->
     <ItemGroup>
         <ProjectReference Include="..\src_patcher\BepInExConfigManager.Patcher.csproj">
